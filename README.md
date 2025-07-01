@@ -1,0 +1,1 @@
+This repository contains R and python scripts to perform a canonical correlation analysis. These are somewhat of a work in progress as they are refactors of old code that was not as flexible. Only the R script allows for residualization. Refactored code has not been thoroughly tested.   
