@@ -1,3 +1,8 @@
+
+### This is a bare bones implementation of CCA + permutation testing. Please be aware that your X and Y data variables may not start at 8.
+## You may also want a different number of permutations and components to evaluate 
+
+
 # Canonical Correlation Analysis with Permutation Testing
 n_permutations = 1000
 n_components = 3
